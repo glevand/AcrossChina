@@ -32,7 +32,7 @@ Wen, April 15-18	31-34	Dunhuang		13	2297	Western Regent Hotel	truck+bus=300
 Sun, April 19		35	Liuyuan			126	2423	Truckstop road house
 Mon, April 20		36	Road builder's camp	130	2553	Bivy?	2740 km stone
 Tue, April 21-22	37-38	Hami			17	2570	Hotel	Bad winds, truck=150
-Thu, April 23		39	River bed camp		142	2712	Free camp	Alt=1635m
+Thu, April 23		39	Hill Camp		142	2712	Hill Free camp	Alt=1635m
 Fri, April 24		40	Shanshan		146	2858	Gross hotel
 Sat, April 25-27	41-43	Turpan			133	2991	Turpan Guest House
 Tue, April 28-May 4	44-50	Urumqi			0	2991	Hongshan Hotel	Bus from Turpan
